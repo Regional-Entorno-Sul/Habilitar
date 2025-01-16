@@ -1,5 +1,6 @@
 # Habilitar
-Gera um arquivo DBF com as notificações passíveis de fluxo de retorno.
+Gera um arquivo DBF com as notificações passíveis de fluxo de retorno.  
+
 Sintaxe do executável:
 
 ~~~
